@@ -1,1 +1,2 @@
 Ovo je prvi dokument
+Ovo je drugi redak - koji je dodan u local master
