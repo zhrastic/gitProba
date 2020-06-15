@@ -1,4 +1,5 @@
 Ovo je prvi dokument
 Ovo je drugi redak - koji je dodan u local master
 Ovo je dodan redak direktno u origin
+Ovo je 4 redak, dodan lokalno, a trebao bi završiti mergan u novom branchu na serveru, a ne u origin-u
 
